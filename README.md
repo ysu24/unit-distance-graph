@@ -7,12 +7,12 @@ This repository explores unit distance graphs (UDG) and methods for maximizing t
 
 ## 📋 Table of Contents
 
-1. [Introduction](#introduction)  
-2. [Structure](#structure)  
-3. [Getting Started](#getting-started)  
-4. [Features](#features)  
-5. [Results](#results)  
-6. [Acknowledgments](#acknowledgments)
+1. [Introduction](#-introduction)  
+2. [Structure](#-structure)  
+3. [Getting Started](#-getting-started)  
+4. [Features](#-features)  
+5. [Results](#-results)  
+6. [Acknowledgments](#-acknowledgments)
 
 ---
 
