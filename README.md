@@ -1,9 +1,9 @@
-# FIND UNIT DISTANCE GRAPH WITH MAXIMUM NUMBER OF EDGES
+# Find Unit Distance Graph with Maximum Number of Edges
 
 ### Author: Yiheng Su  
 ### Mentors: Adrián Csiszárik, Dániel Varga, Pál Zsámboki  
 
-This repository explores unit distance graphs (UDG) and methods for maximizing the number of edges, using Moser lattice representations and optimization techniques like beam search. It includes theoretical discussions, implementation details, and results from computational experiments.
+This repository explores unit distance graphs (UDG) and methods for maximizing the number of edges, using Moser lattice representations and optimization techniques like beam search. It includes theoretical discussions, implementation details, and results from computational experiments. This repository documents the research progress up to May 20, 2023. For the final stages of the study, please refer to the updated paper on [arXiv](https://arxiv.org/abs/2406.15317) published on November 25, 2024.
 
 ## 📋 Table of Contents
 
@@ -30,9 +30,7 @@ This project investigates the **unit distance graph (UDG)**—a graph in which v
 
 The repository is organized as follows:
 
-- **`udg_beam_search.ipynb`**: Main notebook containing theory, implementation, and results.  
-- **`data/`**: (Optional) Placeholder for datasets used in analysis.  
-- **`results/`**: (Optional) Folder for output graphs or computation logs.  
+- **`udg_beam_search.ipynb`**: Main notebook containing theory, implementation, and results. 
 - **`README.md`**: Documentation for the repository.
 
 ### Notebook Sections
