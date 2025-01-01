@@ -31,6 +31,7 @@ This project investigates the **unit distance graph (UDG)**—a graph in which v
 The repository is organized as follows:
 
 - **`udg_beam_search.ipynb`**: Main notebook containing theory, implementation, and results. 
+- **`BeamSearchUtils.py`**: Helper functions for beam search and UDG operations.
 - **`README.md`**: Documentation for the repository.
 
 ### Notebook Sections
@@ -59,12 +60,7 @@ The notebook is divided into several key sections:
    cd udg-beam-search
    ```
 
-2.	Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.	Launch the notebook:
+2.	Launch the notebook:
     ```bash
     jupyter notebook udg_beam_search.ipynb
     ```
